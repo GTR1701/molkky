@@ -1,0 +1,13 @@
+.gracze, .punktacja {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+input {
+    width: 100%;
+    text-align: center;
+}
+
+* {
+    text-align: center;
+}
